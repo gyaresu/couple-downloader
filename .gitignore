@@ -1,2 +1,5 @@
 couple.js
 private
+node_modules
+npm-debug.log
+.DS_Store
